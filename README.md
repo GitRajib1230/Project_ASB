@@ -138,8 +138,4 @@ This project is for academic use only. Data used is synthetic and does not conta
 
 """
 
-# Save to file
-readme_path = "/mnt/data/README.md"
-Path(readme_path).write_text(readme_content)
 
-readme_path
