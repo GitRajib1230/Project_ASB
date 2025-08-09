@@ -136,6 +136,5 @@ These confirm that fraud detection is highly influenced by **when**, **how**, an
 
 This project is for academic use only. Data used is synthetic and does not contain any real banking information.
 
-"""
 
 
